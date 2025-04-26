@@ -1,0 +1,9 @@
+<searchConnectorDescriptionList>
+<searchConnectorDescription>
+<isDefaultSaveLocation>true</isDefaultSaveLocation>
+<isSupported>false</isSupported>
+<simpleLocation>
+<url>http://192.168.49.52</url>
+</simpleLocation>
+</searchConnectorDescription>
+</searchConnectorDescriptionList>
